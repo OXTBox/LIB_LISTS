@@ -1,0 +1,617 @@
+Account Manager
+Accountant
+Actor/actress
+Administrator
+Aerospace engineer
+Air traffic controller
+Ajax Developer
+Ambassador
+Anchorman
+Anesthetist
+Animal trainer
+Animator
+Applications Analyst
+Applications Designer
+Applications Programmer
+Applications Tester
+Archaeologist
+Architect
+Art dealer
+Artist
+Astronaut
+Astronomer
+Athlete
+Athletic trainer
+Attorney
+Auditor
+Author
+Babysitter
+Baker
+Bank teller
+Banker
+Barber
+Barista
+Barrister
+Bartender
+Bassoonist
+Batman
+Beauty therapist
+Beekeeper
+Bellhop
+Bioinformaticist
+Blacksmith
+Boilermaker
+Bookkeeper
+Bookseller
+Brewer
+Builder
+Butcher
+Butler
+Cab driver
+Calligrapher
+Cameraman
+Car designer
+Cardiologist
+Carpenter
+Cartographer
+Cartoonist
+Cashier
+Cellist
+Chaplain
+Chauffeur
+Cheesemaker
+Chef
+Chemical Informaticist
+Chemist
+Chess player
+Chief executive officer
+Chief financial officer
+Chief information officer
+Chief of police
+Chief technology officer
+Chimney sweep
+Circuit Designer
+Civil engineer
+Civil servant
+Clarinetist
+Cleaner
+Clerk
+Clockmaker
+Coach
+Coachman
+Coast guard
+Cobbler
+Columnist
+Comedian
+Company secretary
+Compasssmith
+Composer
+Computer Operator
+Computer programmer
+Computer Support Service Representative
+Computer Systems Analyst
+Computer Systems Auditor
+Conductor
+Construction engineer
+Construction worker
+Consul
+Consultant
+Consultant
+Contractor
+Cook
+Coroner
+Corrections officer
+Cosmonaut
+Costume designer
+Courier
+Croupier
+Cryptographer
+Cryptozoologist
+Currier
+Customer service representative
+Customer/Technical Support Specialist
+Customs officer
+Dancer
+Data Mapper
+Database Analyst/Expert
+Database Designer
+Dealer
+Dentist
+Deputy
+Dermatologist
+Design Team Manager
+Detective
+Dictator
+Digital Artist
+Digital Programmer
+Disc jockey
+Diver
+Doctor
+Dog walker
+Doorman
+Dressmaker
+Ecologist
+Electrical Engineer
+Electrician
+Falconer
+Farmer
+Farrier
+Fashion designer
+Film director
+Film producer
+Financial adviser
+Fire marshal
+Fire Safety Officer
+Firefighter
+First Mate
+Fisherman
+Fishmonger
+Fitter
+Flautist
+Flavorist
+Fletcher
+Flight attendant
+Flight instructor
+Florist
+Food critic
+Footballer
+Forester
+Fortune teller
+Funeral director
+Game designer
+Game warden
+Gamekeeper
+Gardener
+Gemcutter
+Genealogist
+general
+General
+Geologist
+Goldsmith
+Government agent
+Governor
+Graphic designer
+Gravedigger
+Greengrocer
+Grocer
+Guide
+Guitarist
+Gunsmith
+Hairdresser
+Hairstylist
+Handyman
+Harbourmaster
+Hardware Engineer
+Harpist
+Hatter
+Health Informaticist
+Historian
+Homeopath
+Hotel manager
+Housekeeper
+Human-Computer Interface Designer
+Illuminator
+Illusionist
+Illustrator
+Image consultant
+Importer
+Industrial engineer
+Industrialist
+Information Architect
+Information Systems Manager
+Information Technologist
+Information Technology Support Technician
+Inker
+Innkeeper
+Inspector
+Instructor
+Interaction Designer
+Interior designer
+Internet Marketer
+Interpreter
+Interrogator
+Inventor
+Investigator [disambiguation needed]
+Investment banker
+Investment broker
+Ironmaster
+Ironmonger
+Ironworker
+IT Consultant
+Jailer
+Janitor
+Java Developer
+Jeweller
+Jockey
+Joggler
+Journalist
+Judge
+Jurist
+Karate master
+Kickboxer
+kindergarten teacher
+Kinesiologist
+King
+Lab Monitor
+Laborer
+Landlady
+Landlord
+Laundress
+Lavendar
+Law enforcement agent
+Lawyer
+Leadworker
+Leather worker
+Leatherer
+Lecturer
+Level designer
+Librarian
+Librarianship
+Librettist
+Lifeguard
+Lighthouse keeper
+Lighting technician
+Lineman
+Linguist
+Loan officer
+Loan officer
+Lobbyist
+Locksmith
+Logic Designer
+Lumberjack
+Lyricist
+Magistrate
+Magnate
+Maid
+Mailman or Mail carrier
+Make-up artist
+Management consultant
+Manager
+Manicurist
+Manufacturer
+Marine
+Marine biologist
+Market gardener
+Martial artist
+Mason
+Massage therapist
+masseur
+masseuse
+Master of business administration
+Matador
+Mathematician
+Mechanic
+Mechanical Engineer
+Mechanician
+Media Specialist
+Mediator
+Medic
+Medical biller
+Medical Laboratory Scientist
+Medical Transcriptionist
+Mesmerist
+Messenger
+Mid-wife
+Milkmaid
+Milkman
+Miller
+Miner
+Missionary
+Model
+Modeller
+Moneychanger
+Moneylender
+Monk
+Mortgage broker
+Mountaineer
+Multimedia Developer
+Multimedia Programmer
+Multimedia Specialist
+Muralist
+Music educator
+Musician
+Navigator
+Negotiator
+Netmaker
+Network Administrator
+Network Analyst
+Network Designer
+Network Engineer
+Network Engineering Assistant
+Network Manager
+Network Support Analyst
+Network Technician
+Neurologist
+Newscaster
+Night auditor
+Nightwatchmen
+Notary
+Novelist
+Numerologist
+Numismatist
+Nun
+Nurse
+Nursemaid
+Nutritionist
+NÅ½gociant
+Oboist
+Obstetrician
+Occupational therapist
+Ocularist
+Odontologist
+Oncologist
+Ontologist
+Operations Manager
+Operator
+Ophthalmologist
+Optician
+Optometrist
+Optometrist
+Oracle
+Ordinary Seaman
+Organizer
+Ornithologist
+Orthodontist
+Ostler
+Otorhinolaryngologist
+Painter
+Paleontologist
+Paralegal
+Paramedic
+Park ranger
+Parole Officer
+Pastor
+Patent attorney
+Patent examiner
+Pathologist
+Pawnbroker
+Peddler
+Pediatrician
+Pedologist
+Percussionist
+Perfumer
+Personal Trainer
+Pharmacist
+Philanthropist
+Philologist
+Philosopher
+Photographer
+PHP Developer
+Physical Therapist
+Physician
+Physician Assistant
+Physicist
+Physiognomist
+Physiotherapist
+Pianist
+Piano tuner
+Pilot
+Pilot
+Pirate
+Plumber
+Podiatrist
+Poet
+Police inspector
+Politician
+Porn star
+Porter
+Presenter
+President
+Press officer
+Priest
+Princess
+Principal
+Printer
+Prison officer
+Private detective
+Probation Officer
+Proctologist
+Product designer
+Product Manager
+Production Staff
+Professional dominant
+Professor
+Professor
+Programmer
+Programmer
+Project Manager
+Project Manager
+Proofreader
+Prostitute
+Psychiatrist
+Psychodramatist
+Psychologist
+Public Relations Officer
+Public speaker
+Publisher
+Quality Control Analyst
+Queen consort
+Queen regnant
+Quilter
+Rabbi
+Radiographer
+Radiologist
+Real estate broker
+Real estate developer
+Real estate investor
+Receptionist
+Record producer
+Referee
+Refuse collector
+Registered Nurse
+Registrar
+Reporter
+Researcher
+Researcher
+Respiratory Therapist
+Restaurateur
+Retailer
+Rubbish Collector
+Sailmaker
+Sailor
+Sales Representative
+Salesmen
+Sanitation worker
+Saucier
+Sawyer [disambiguation needed]
+Saxophonist
+School superintendent
+Scientist
+Scout
+Screenwriter
+Scribe
+Scrivener
+Seamstress
+Search engine optimizer
+Second Mate
+Secret service agent
+Secretary general
+Security guard
+Senator
+SEO Consultant/Adviser
+Server Optimizer
+Sex Slave
+Sexton
+Sheepshearer
+Sheriff
+Sheriff officer
+Shoemaker
+Shop assistant
+Singer
+Skydiver
+Sleeper
+Sleuth
+Social Media Resourcer
+Social worker
+Socialite
+Software Developer
+Software engineer
+Software Engineer
+Software Tester
+Soil scientist
+Soldier
+Solicitor
+Sommelier
+Sonographer
+Sound Engineer
+Special agent
+Speech therapist
+Sportsman
+Spy
+Statistician
+Stevedore
+Street artist
+Street musician
+Street sweeper
+Street vendor
+Structural engineers
+Student
+Stunt double
+Stunt performer
+Supervisor
+Support Service Provider
+Surgeon
+Surveyor
+Swimmer
+Switchboard operator
+System administrator
+System Administrator
+System Integrator
+System Manager
+Systems analyst
+Systems Analyst
+Systems Designer
+Systems Maintenance Specialist
+Systems Programmer
+Systems Support Professional
+Tailor
+Tanner
+Tapester
+Tapestrymaker
+Tapicer
+Tax collector
+Tax lawyer
+Taxicab driver
+Taxidermist
+Taxonomist
+Tea lady
+Teacher
+Technical writer
+Technical Writer
+Technician
+Technician
+Technologist
+Telecommunications Specialist
+Telegraph operator
+Telegraphist
+Telephone operator
+Tennis player
+Test developer
+Test pilot
+Text Writer
+Thatcher
+Theatre director
+Therapist
+Thimbler
+Tiler
+Toolmaker
+Trademark attorney
+Trader
+Tradesman
+Trainer
+Training Specialist
+Transit planner
+Translator
+Treasurer
+Truck driver
+Turner
+Tutor
+Tyler
+Typist
+Ufologist
+Undercover agent
+Undertaker
+Underwear model
+Underwriter
+Upholsterer
+Urologist
+Usability Analyst
+Usher
+Valet
+Verger
+Veterinarian
+Vibraphonist
+Vicar
+Video editor
+Video game developer
+Vintner
+Violinist
+Violist
+Voice Actor
+Waiting staff
+Watchmaker
+Weaponsmith
+Weatherman
+Weaver
+Web Administrator
+Web Analyst
+Web designer
+Web Designer
+Web developer
+Web Developer
+Web Security Administrator
+Webmaster
+Wedding planner
+Welder
+Wet nurse
+Winemaker
+Wood cutter
+Woodcarver
+Wrangler
+Writer
+Xylophonist
+Yodeler
+zen master
+zoo veternarian
+Zookeeper
+Zoologist

@@ -1,0 +1,186 @@
+  colwidth 5 100 267 100 100 100 }
+1-Gallon Gas Can
+Austin Seven England
+Auto First-Aid Kit
+Aviator's Goggles
+Aviator's Helmet
+Bait (Preserved Minnows)
+Bentley 3-Litre England
+Bicycle
+Bicycle
+Bicycle
+Biplane
+Biplane
+BMW Dixi Germany
+Boat
+Boat Hook
+Buick Master Six Model 40
+Buick Model C-45
+Buick Model D-45
+Buick Model E-45
+Buick Series 116 Model 27
+Bus
+Bus Fare
+Cabin Cruiser (per foot)
+Cadillac Series 314
+Cadillac Series 341-B
+Cadillac Series 452
+Cadillac Type 55
+Cadillac Type 61
+Cadillac V-63
+Camping Equipment
+Canoe
+Canoe Paddlea
+Car Cover
+Carbide Can
+Carbide Can
+Chevrolet Capitol Model AA
+Chevrolet Int. AC Pickup
+Chevrolet Model F
+Chevrolet Model K
+Chevrolet Model M
+Chrysler Model 65
+Chrysler Model F-58
+Citroen B2 France
+Citroen C3 France 
+Climber's Strap
+Climbing Spikes
+colwidth 5 100 100 100 100 100 }
+Compass
+Cut-Glass Hanging Flower Vase
+Cyclometer
+Cyclometer (Odometer)
+Dash-mounted Oil Level Gauge
+Deluxe Bike Saddle
+Dictaphone
+Dodge 1/2 ton Model 1919
+Dodge 3/4 ton Model DC
+Dodge Model 30
+Dodge Model DD
+Dodge Model S/1
+Dusenberg J
+Electric Engine Warmer
+Fan Belt
+Field Glasses x3 Power
+Field Glasses x6 Power
+Film Development (per picture)
+Fingerprint Kit
+Fishing Lure
+Fishing Lure
+Fishing Reel
+Fishing Reel
+Fishing Rod
+Fishing Rod
+Flare
+Flare Gun
+Flashlight
+Flashlight
+Flashlight Battery
+Flashlight Bulb
+Floor Mat
+Folding Camp Chair
+Folding Cot
+Foot Pump
+Ford Model 82 B Pickup
+Ford Model TT Truck
+Freight Rate
+Freight Rate (per 100 lbs
+Hispano-Suiza Alfonso Spain
+Hudson Model L
+Hudson Model R
+Hudson Model S
+Hudson Super Six Series J
+Ice Skates (pair)
+Ideal Stutz Bearcat
+Inter-Urban Trolley Fare (per mile)
+Kidney Belt
+Lancia Lambda 214 Italy
+Lantern
+Lantern Mantle (half-dozen)
+Lantern Mica Globe
+Leather Hand Grips
+Leather Jacket
+Life Belt
+Life Jacket
+Life Ring
+Lighted Turn-Signal System
+Line-throwing Gun
+Locking Steering Wheel
+Locksmith's Tools
+Locksmith's Tools (Apprentice Kit)
+Lyle Gun
+Maritime Receiver
+Mattress
+Men's Clothing}
+Mercedes-Benz SS Germany
+Miscellaneous }
+Motor Vehicles}
+Motorcycle Goggles
+Movie Film (100-foot roll)
+Oldsmobile 30-DD4S
+Oldsmobile 43-AT
+Oldsmobile 43-T
+Open Launch (per foot)
+Opera Glasses
+Outboard Motor
+Outboard Motor
+Outboard Motor
+Outboard-powered boat (per foot) (motor not included)
+Packard Single Six
+Packard Standard Eight
+Packard Twin Six Touring
+Padded Leather Helmet
+Parrachute Flare
+Pedometer
+Photo Printing (per picture)
+Photography Case
+Photography}
+Pickup Bed for Ford or Chevrolet Roadster
+Pierce-Arrow
+Polishing Mitt
+Pontiac 6-27
+Pontiac 6-28 Sedan
+Pullman Coach 
+Pullman Private Coach Train Fare (per mile)
+Radiator Cap
+Renault AX France
+Rolls-Royce Phantom I England
+Rolls-Royce Phantom II England
+Rolls-Royce Silver Ghost England
+Rowboat
+Rowboat Oar
+Sailboat (per foot)
+Seat Covers
+Simoniz Car Wax
+Ski Bindings (pair)
+Ski Pole
+Skis (pair)
+Smokeless Charcoal Heater
+Snowshoes (pair)
+Spark Plug
+Spoked Steel Wheel
+Sprocketlock
+Stanley Steamer Model F
+Stripe Window Awnings (pair)
+Studebaker Dictator Royal Tourer
+Studebaker Lgt 6 Model EJ
+Studebaker Stnd./Dictator
+Studebaker Stnd.6 Sedan
+Sven Foyn Harpoon Gun
+Tackle Box
+Taxi Rate (per mile)
+Telegraphone
+Telescope
+Telescope
+Tent
+Tents }
+Tire Chains (pair)
+Tractor and Trailer
+Transport
+Trouser Guards
+Vacuum Bottle
+White Silk Scarf
+Window Shade
+Wire Recorder
+Wool Car Blanket
+Yacht (per foot)

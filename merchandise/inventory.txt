@@ -1,0 +1,9 @@
+{
+ "": {
+  "DND Beyond Link": "https://www.dndbeyond.com/equipment/Yew-Wand",
+  "Price": "10 gp",
+  "prop2": "Yew Wand",
+  "Type": "Druidic Focus",
+  "Weight": "1 lb."
+ }
+}

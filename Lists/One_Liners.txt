@@ -1,0 +1,4 @@
+{
+ "$file": "blobs/MasterLists__stack__Lists__One_Liners.txt",
+ "chars": 47168
+}

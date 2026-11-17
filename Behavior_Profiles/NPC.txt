@@ -1,0 +1,8 @@
+{
+ "": {
+  "Physical_limitations_injury,_addiction,_fear_": "Physical limitations (injury, addiction, fear)",
+  "Secrets_that_can_be_exploited": "Secrets that can be exploited",
+  "Social_vulnerabilities_ego,_pride,_grudges_": "Social vulnerabilities (ego, pride, grudges)",
+  "Vulnerabilities_and_Weaknesses": "Vulnerabilities and Weaknesses"
+ }
+}

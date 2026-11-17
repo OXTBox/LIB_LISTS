@@ -1,0 +1,137 @@
+2d
+3d print
+6-bit
+8-bit
+acid etch
+advertisement
+anaglyph
+animal balloons
+animation
+anime
+annoucement
+architecture
+arrangement
+ascii art
+assemblage
+augmented reality
+billboard
+blueprint
+calligraphy
+cartoon
+carving
+casting
+ceramic
+CGI
+child's drawing
+collage
+coloring book
+comic book
+comic strip
+commercial
+concept art
+construction
+costume
+crosshatch
+cut paper
+daguerreotype
+decoration
+decoupage
+detailed and intricate
+digital art
+diorama
+doll
+Doll
+doodle
+dot art
+dot matrix
+drawing
+embroidery
+engraving
+etching
+fabric
+fashion
+film
+finger paint
+flipbook
+fontagraphy
+found objects
+furniture
+grafitti
+graph
+graphic design
+graphic novel
+hard edge painting
+hieroglyph
+hologram
+hydrodipped
+iconography
+illustration
+industrial design
+infographic
+interior design
+ironwork
+jewelry
+knitting
+landscape design
+laser etch
+lego
+line art
+linocut
+lithography
+manga
+masonry
+maze
+meme
+metalwork
+miniatures
+model
+monolith
+montage
+mosaic
+movie
+mural
+newsprint
+normal map
+painting
+paper model
+paper-mache
+papercutting
+petraglyph
+photo
+photograph
+pixel art
+plastic modeling
+pop-up book
+poster
+pottery
+puppet
+pyrography
+religious tract
+render
+rubber stamp
+scratchboard
+screenprint
+sculpture
+signage
+sketch
+spritesheet
+stencil
+stone work
+stop motion animation
+storyboard
+street art
+tattoo
+television
+textile
+Tool
+Toy
+typography
+Utensil
+UV Map
+vector art
+video
+video game
+virtual reality
+visual novel
+watercolor
+zeotrope

@@ -1,0 +1,15 @@
+aqua
+beige
+black
+fuchsia
+gold
+lavender
+neon
+pastel
+peach
+pink
+purple
+red
+teal
+turquoise
+yellow

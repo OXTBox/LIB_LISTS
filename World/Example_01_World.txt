@@ -1,0 +1,23 @@
+{
+ "": {
+  "": {
+   "": {
+    "": {
+     "": {
+      "": {
+       "name": "Leatherworker's_tools",
+       "visible": true
+      }
+     },
+     "locked": false,
+     "name": "crate",
+     "open": true,
+     "visible": true
+    }
+   },
+   "location": "canyon_c16r14",
+   "name": "Player1"
+  }
+ },
+ "name": "Example_01_World"
+}

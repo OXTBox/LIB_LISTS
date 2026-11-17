@@ -1,0 +1,254 @@
+acolyte
+actor
+administrator
+adventure party
+adventurer
+agent
+aide
+alien
+animal control
+animated object
+apprentice
+archeologist
+army
+astrologer
+astronomer
+aunt
+autonomous limb
+avatar
+baker
+balloonist
+bandits
+banker
+barbarian
+barkeep
+battle dead
+battle wounded
+biological or magical experiment
+blacksmith
+bleeding
+boatman
+bodyguard
+bombadier
+bounty hunter
+boyfriend
+bride
+brother
+burglar
+buried alive
+busboy
+butler
+captain
+carnival person
+carpenter
+celebrity
+census taker
+chaperone
+chef
+child
+clone
+coach
+companion
+condemned
+corpse
+cosmetician
+courier
+cousin
+cowboy
+creature
+cripple
+cultist
+cursed
+cyborg
+demon
+depressed
+devil
+dictator
+diety
+dimensional being
+disembodied mind
+doctor
+domestic beast
+domestic quarrel
+driver
+drug addict
+drug dealer
+druid
+drunken bum
+dying 
+entertainer
+escaped convict
+escaped demon
+escaped slave
+escort
+executioner
+faery folk
+fallen angel
+farmer
+feral beast
+fire brigade
+fisherman
+flowerchild
+fool
+fortune teller
+fugitive
+gang
+gangleader
+gatherer
+gentle giant
+girlfriend
+golem
+grandchild
+grandfather
+grandmother
+gravedigger
+groom
+guru
+gypsy
+hallucination
+harem girl
+haunted
+hero
+highwayman
+homeless family
+homeless veteran
+horde
+horseman
+hunter
+husband
+illuminati
+infected
+injured
+Innkeeper
+insane
+intelligent animal
+intelligent insect
+inventor
+investigator
+jack of all trades
+janitor
+jester
+knight
+lackey
+land owner
+landlord
+leader
+lost in space
+lost in time
+lover
+lyncanthrope
+maid
+maiden
+manservant
+mascot
+mason
+mastermind
+militia
+milk maid
+miner
+mistress
+monk
+mournful ghost
+mud dweller
+mugger
+murder
+muscial group
+musician
+mutant
+mysterious stranger
+native
+nephew
+niece
+nightmare incarnate
+ninja
+nomad
+nun
+office worker
+official
+orphan
+overlord
+paranoid
+peacekeeper
+peasantry
+pervert
+phobic
+pickpocket
+pilgrim
+pilot
+pimp
+pirate
+poet
+polymorph
+porter
+posessed
+priest
+primate
+professor
+prostitute
+rancher
+ranger
+repairman
+repentant demon
+reporter
+research team
+retainer
+revolutionary
+ringleader
+robot
+royalty
+sage
+sailor
+sanitation worker
+scientist
+scout
+sewer worker
+shepard
+shipwrecked
+shogun
+shopkeep
+shoplifter
+sidekick
+siege force
+sister
+skeleton
+slave
+slave master
+soldier
+sports team
+spy
+squire
+stockboy
+student
+superhero
+supervillian
+surveyor
+survivor
+swarm
+talking animal
+tax collector
+teacher
+tenant
+terrorified person
+terrorist
+theatre group
+time traveler
+tiny tyrant
+tourist
+trapped 
+traveling merchant
+treasure hunter
+uncle
+undead
+unic
+vacationer
+valet
+vengeful ghost
+waitress
+war party
+warrior
+weapons dealer
+wife
+wiseman
+wizard
+writer
+wronged person

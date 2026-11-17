@@ -1,0 +1,90 @@
+action hero
+actor
+artist
+astronaut
+athlete
+banker
+bartender
+beach bum
+beach volleyball player
+beatnik
+biker
+bodybuilder
+breakdancer
+breakdancer
+breakdancer
+businessman
+car enthusiast
+chef
+chef
+college student
+comic book collector
+computer programmer
+construction worker
+cowboy
+cowboy
+cowboy
+daredevil
+detective
+disco dancer
+DJ
+doctor
+environmentalist
+explorer
+farmer
+firefighter
+fitness guru
+gamer
+gentleman
+goth
+greaser
+hacker
+high school dropout
+high school quarterback
+hippie
+jock
+journalist
+lawyer
+martial artist
+mechanic
+metalhead
+metalhead
+movie star
+musician
+nerd
+new romantic
+new waver
+photographer
+pilot
+police officer
+politician
+pop star
+preppy
+punk
+punk rocker
+rebel
+rockabilly
+rocker
+roller skater
+sailor
+scientist
+skateboarder
+skateboarder
+skater
+skier
+slacker
+snowboarder
+soldier
+spiritualist
+spy
+stockbroker
+stoner
+surfer
+surfer
+surfer dude
+teacher
+trucker
+video game enthusiast
+writer
+yuppie
+yuppie

@@ -1,0 +1,241 @@
+Doctor
+Acrobat
+Activist
+Actor
+Adminstrator
+Admiral
+Angel
+Animal Tamer
+Archer
+Armed Robber
+Arms Dealer
+Artist
+Assassin
+Astronaut
+Athelete
+Baker
+Banker
+Bar Tender
+Bard
+Bartender
+Beach Comber
+Beatnik
+Beggar
+Biker
+Burgalar
+Butcher
+Cab Driver
+Cadet
+Calvary
+Camgirl
+Cannibal
+Captain
+Cashier
+Cat Burgalar
+Cavalier
+Cellist
+Chef
+Chieftan
+Chiropractor
+Circus Performer
+Cleric
+Clerk
+Clown
+Collector
+Composer
+Convict
+Cook
+Courier
+Crazed Fan
+Criminal
+Crooner
+Cultist
+Custodian
+Dairy Girl
+Dancer
+Dealer
+Deputy
+Dictator
+Director
+Distance runner
+Diver
+DJ
+Door Knocker
+Driver
+Drug Dealer
+Druid
+Drummer
+Drummer
+E-Girl
+Electrician
+Elf
+Exotic Dancer
+Fairy
+Falconer
+Farmer
+Film Director
+Fire fighter
+Florist
+Game Developer
+Gardener
+Geek
+Gemcutter
+General
+Glass-blower
+Golfer
+Goth
+Graphic Artist
+Guitar Player
+Gypsy
+Hairdresser
+Harpist
+Healer
+Hiker
+Hippy
+Hipster
+Hobo
+Homemaker
+Hunter
+Infantry
+Instructor
+Instructor
+Insurgent
+Inventor
+Investor
+Jewellery maker
+Jogger
+Jouranlist
+Judge
+Karate Instructor
+Knitwear Designer
+Lab Assistant
+Landlord
+Landscaper
+Lawyer
+Lifeguard
+Luietenant
+Lumberjack
+Machine Gunner
+Machine Operator
+Mage
+Magician
+Mail Carrier
+Marathon Runner
+Mechanic
+Medic
+Mercenary
+Merchant
+Midwife
+Miner
+Minister
+Music Photographer
+Music Promoter
+Musician
+Mystic
+Navigator
+Navy Seal
+Nerd
+Nun
+Nurse
+Optician
+Orderly
+Painter
+Paladin
+Paleontologist
+Paper Maker
+Paratrooper
+Philospher
+Photographer
+Physicist
+Pilot
+Pole Dancer
+Politician
+Pool Cleaner
+Porn Star
+Preppy
+President
+Priest
+Printer
+Professor
+Protester
+Psychic
+Pundit
+Punk rocker
+Pyschologist
+Quality Checker
+Quilter
+Rabbi
+Rabbit Fancier
+Racer
+Radio Presenter
+Rancher
+Rancher
+Rapper
+Raver
+Rebel
+Recruiter
+Researcher
+Retailer
+Rocker
+Rouge
+S.W.A.T
+Saddler
+Sargeant
+Scientist
+Security Guard
+Server
+Sign Twirler
+Singer
+Skate punk
+Skateboarder
+Skydiver
+Smuggler
+Socialite
+Software Developer
+Spy
+Stalker
+Student
+Super Model
+Surfer
+Survivalist
+Swimmer
+Swimmer
+Taxi Driver
+Teacher
+Teacher
+Terrorist
+Thief
+Toolmaker
+Tour Guide
+Traveler
+Tribal leader
+Trooper
+Truck Driver
+Twitch Streamer
+Umpire
+Undertaker
+Unit Assistant
+Vagrant
+Valet Attendant
+Vendor
+Veteran
+Vicar
+Volcanologist
+Wafe Cleaner
+Waitress
+Ware Tester
+Warlock
+Warlord
+Warrior
+Web Developer
+Welder
+Witch
+Wizard
+Woodcarver
+Woodworker
+Yard Supervisor
+Yeast maker
+Yodeler
+Youtuber
+Zealot
+Zoologist

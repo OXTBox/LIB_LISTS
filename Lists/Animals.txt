@@ -1,0 +1,292 @@
+AdŽlie Penguin
+African Elephant
+African Lion
+Albatross
+Alligator Snapping Turtle
+Amazon Horned Frog
+American Alligator
+American Bison
+American Crocodile
+Ammonites
+Anglerfish
+Arabian Camel
+Arapaima
+Arctic Fox
+Arctic Hare
+Arctic Skua
+Asian Lion
+Atlantic Bluefin Tuna
+Atlantic Puffin
+Aye-Aye
+Baboon
+Bactrian Camel
+Bald Eagle
+Baltimore Oriole
+Beaver
+Beluga Whale
+Bengal Tiger
+Bird of Paradise
+Black Mamba
+Black Widow Spider
+Black-Footed Ferret
+Blue Crab
+Blue Jay
+Blue Whale
+Blue-Footed Booby
+Bluebird
+Boa Constrictor
+Bottlenose Dolphin
+Box Jellyfish
+Brachychampsa Montana
+Brown Bear
+Bull Shark
+Burmese Python
+Butterflyfish
+California Condor
+California Sea Lion
+Canada Goose
+Cane Toad
+Caribou
+Carolina Wren
+Cheetah
+Chimpanzee
+Chinese Paddlefish
+Chinese Sturgeon
+Chipmunk
+Cicada
+Clown Anemonefish
+Common Earthworm
+Common Loon
+Common Octopus
+Common Sandpiper
+Common Wombat
+Coral
+Cottontail Rabbit
+Coyote
+Cretoxyrhina Mantelli
+Cuban Screech Owl
+Deer Tick
+Devil Frog
+Dingo
+Dogs
+Dolichorhynchops Osborni
+Domestic Cat
+Dugong
+Eastern Coral Snake
+Eastern Diamondback Rattlesnake
+Eastern Gray Kangaroo
+Egyptian Giant Solpugid (Camel Spider)
+Electric Eel
+Elk
+Fennec Fox
+Firefly (Lightning Bug)
+Flying Fish
+Flying Snake
+Fossa
+Frilled Lizard
+Fur Seal
+Gal‡pagos Tortoise
+Gar
+Gavial
+Gelada
+Geographic Cone Snail
+Gharial
+Giant Anteater
+Giant Barb
+Giant Clam
+Giant Freshwater Stingray
+Giant Pacific Octopus
+Giant Panda
+Giant River Otter
+Giant Squid
+Gila Monster
+Golden Cowrie
+Golden Eagle
+Golden Poison Dart Frog
+Gray Whale
+Great Blue Heron
+Great Egret
+Great Horned Owl
+Great White Shark
+Green Anaconda
+Green Basilisk Lizard
+Green Iguana
+Green Sea Turtle
+Green-Eyed Tree Frog
+Grizzly Bear
+Groundhog
+Hammerhead Shark
+Harbor Porpoise
+Harp Seal
+Hawaiian Monk Seal
+Hawksbill Sea Turtle
+Hedgehog
+Henodus Chelyops
+Hesperornis Regalis
+Hippopotamus
+Honeybee
+Horned Toad
+Hornet
+Howler Monkey
+Humpback Whale
+Impala
+Indian Rhinoceros
+Ivory-Billed Woodpecker
+Jackrabbit
+Jaguar
+Kemp's Ridley Sea Turtle
+King Cobra
+Kinkajou
+Koala
+Komodo Dragon
+Krill
+Ladybug
+Lake Sturgeon
+Laughing Kookaburra
+Leafy and Weedy Sea Dragon
+Leatherback Sea Turtle
+Leopard
+Leopard Seal
+Lesothosaurus Diagnosticus
+Lionfish
+Llama
+Lobster
+Locust
+Loggerhead Sea Turtle
+Macaw
+Madagascar Hissing Cockroach
+Mallard Duck
+Mandrill
+Marine Iguana
+Matschie's Tree Kangaroo
+Meerkat
+Mekong Giant Catfish
+Meller's Chameleon
+Mexican Axolotl
+Mola
+Mole Rat
+Monarch Butterfly
+Mongoose
+Moose
+Mosquito
+Mountain Goat
+Mountain Gorilla
+Mountain Lion
+Mouse Lemur
+Mudpuppy
+Musk-Ox
+Narwhal
+Nile Crocodile
+North American River Otter
+Northern Leopard Frog
+Nudibranch
+Nutria
+Ocelot
+Opossum
+Orangutan
+Oriental Fire-Bellied Toad
+Ostrich
+Oyster
+Ozark Big-Eared Bat
+Pachycephalosaurus Wyomingensis
+Parrot
+Parrot Fish
+Peacock
+Pelican
+Peregrine Falcon
+Pets
+Pileated Woodpecker
+Platecarpus
+Platypus
+Poison Dart Frog
+Polar Bear
+Porcupine
+Portuguese Man-of-War
+Prairie Dog
+Praying Mantis
+Pronghorns
+Protosphyraena
+Protostega Gigas
+Pufferfish
+Queen Angelfish
+Quetzal
+Raccoon
+Rainbow Trout
+Raven
+Red Kangaroo
+Red Panda
+Red Uakari
+Red-Eyed Tree Frog
+Red-Footed Booby
+Red-Tailed Hawk
+Rhesus Monkey
+Right Whale
+Ring-Necked Pheasant
+Ring-Tailed Lemur
+Ringed Seal
+River Catfish
+Rocky Mountain Bighorn Sheep
+Ruby-Throated Hummingbird
+Sailfish
+Saltwater Crocodile
+Sand Tiger Shark
+Scarab
+Scorpion
+Sea Anemone
+Sea Cucumber
+Sea Otter
+Seahorse
+Short-Horned Lizard
+Siberian Tiger
+Sifaka
+Skunk
+Sloth Bear
+Snow Goose
+Snow Leopard
+Snowshoe Hare
+Sockeye Salmon
+Spectacled Bear
+Sperm Whale
+Spotted Hyena
+Spotted Salamander
+Spring Peeper
+Squirrel
+Starfish
+Steller Sea Lion
+Steller's Sea Eagle
+Stick Insect
+Stingray
+Styxosaurus Snowii
+Sun Bear
+Sunfish
+Taimen
+Tapir
+Tarantula
+Tasmanian Devil
+Thick-Billed Murre
+Tiger Salamander
+Toucan
+Triceratops Horridus
+Troodon Formosus
+Tundra Swan
+Tusotheuthis Longa
+Two-Toed Sloth
+Tylosaurus Proriger
+Wallaby
+Wallace's Flying Frog
+Walrus
+Warthog
+Warty Newt
+Water Buffalo
+Web-Footed Gecko
+Weddell Seal
+Western Lowland Gorilla
+Whale Shark
+White Rhinoceros
+White-Tailed Deer
+Wildebeest
+Wolf
+Wolverine
+Wood Stork
+Xiphactinus Audax
+Zebra

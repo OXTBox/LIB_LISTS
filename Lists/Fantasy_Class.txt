@@ -1,0 +1,282 @@
+Abyss Knight
+Abyssal Mage
+acolyte
+Adept
+Adventurer
+Aeromancer
+Aethermancer
+alchemist
+Amazon
+Animist
+Anti Paladin
+Apostle
+Apothecary
+Arbiter
+Arcane Archer
+Arcane Mage
+Arcane Mage
+Arcane Master
+Arcane Trickster
+Arcane Wizard
+Arcanist
+Archmagus
+Aristocrat
+artificer
+Ascetic
+Assassin
+barbarian
+bard
+Battle Nun
+Battle Priest
+Berserker
+Blackguard
+Blacksmith
+Blood Mage
+Bone Knight
+Bone Mage
+Cavalier
+Champion
+Chaos Knight
+Chronomancer
+cleric
+Con Artist
+Conjurer
+Corsair
+Courtesan
+Crimson Knight
+Crusader
+Cutthroat
+Dancer
+Dark Knight
+Dark Magi
+Dark Paladin
+Dark Ritualist
+Dark Witch
+Death Knight
+Death Priest
+Demolitionist
+Demolitionist
+Demon Caller
+Demon Hunter
+Demonologist
+Diabolist
+disciple
+Divine Sorceror
+Dread Pirate
+Dream Mage
+Dreamshaper
+druid
+Earth Mage
+Eclectic Witch
+Eldritch
+Elementalist
+Evil Archmage
+Evil Paladin
+Evil Witch
+Exorcist
+Farseer
+Female Adept
+female alchemist
+Female Animist
+Female Arcanist
+female archer
+Female Archmage
+Female Aristocrat
+female assassasin
+female barbarian
+Female Bard
+Female Blacksmith
+Female Blood Mage
+Female Champion
+female cleric
+Female Con Artist
+Female Conjurer
+Female Crusader
+Female Dancer
+Female Dark Knight
+Female Death Knight
+Female Demolitionist
+Female Demon Hunter
+Female Diabolist
+Female Dreamshaper
+Female Elementalist
+Female Evil Archmage
+Female Exorcist
+female fighter
+Female Frost Knight
+Female Frost Mage
+Female Glade Guardian
+Female Gypsy
+Female Harlequin
+Female illusionist
+Female Illusionist
+Female Inquisitor
+Female Inquisitor
+female knight
+Female Knight Errant
+Female Merchant
+Female Monster Hunter
+Female Musician
+Female Mystic
+Female Necromancer
+Female Nightblade
+female noblewoman
+Female Nomad
+Female Occultist
+female paladin
+Female Paragon
+Female Peasant
+Female Performer
+Female Psionic
+Female Pyromancer
+Female Ritualist
+female rogue
+Female Runecaster
+Female Seer
+Female Shadow Hunter
+Female Skald
+Female Soldier
+Female Spell Dancer
+Female Spiritualist
+Female Summoner
+Female Terror Knight
+female thief
+Female Vagabond
+Female Veteran Commander
+Female Warchief
+Female Warden
+Female Wicked Diabolist
+female witch
+Female Witch Doctor
+female wizard
+fighter
+Fire Knight
+Fire Mage
+Fire Sorceror
+Fire Wizard
+Fortune Teller
+Frost Knight
+Frost Mage
+Glade Guardian
+Grand Magus
+Grove Keeper
+Guardian
+Gypsy
+Gypsy
+Harlequin
+Heretic
+Hex Master
+Hexblade
+Hexer
+Highlander
+Holy Priest
+holy warrior
+Hunter
+illusionist
+Illusionist
+Imperial Magus
+Incanter
+Inquisitor
+Inquisitor
+Justicar
+King
+knight
+Knight Errant
+mage
+Magi
+magic user
+mercenary
+Merchant
+monk
+Monster Hunter
+Musician
+Myrmidon
+Mystic
+Mystic
+Necromancer
+Nethermancer
+Night Brother
+Night Sister
+Nightblade
+Nomad
+Obsidian Knight
+Occultist
+Outlaw
+Overlord
+paladin
+Paragon
+Paragon
+Peasant
+Performer
+pirate
+Pirate
+Plague Lord
+Plaguemancer
+Potion Master
+Prince
+Princess
+Psionic
+Pyromancer
+Queen
+raider
+Raindancer
+ranger
+Ritualist
+rogue
+Rune Caster
+Rune Keeper
+Rune Knight
+Rune Master
+Rune Shaman
+Rune Wizard
+Runecaster
+Runeshaper
+Runic Knight
+scofflaw
+Seer
+Shadow Hunter
+shaman
+Shield Bearer
+Shield Maiden
+Shinobi
+Skald
+Skull Knight
+Slayer
+Soldier
+sorcerer
+sorceress
+Sovereign
+Spartan
+Spectral Mage
+Spell Dancer
+SpellDancer
+Spellweaver
+Spiritualist
+Storm Caster
+Storm Mage
+Storm Shaman
+Storm Warrior
+Storm Wizard
+Summoner
+Swashbuckler
+Terror Knight
+Terror Knight
+Thane
+thief
+Thug
+Vagabond
+Valkyrie
+Vampire Lord
+Vanquisher
+Veteran Commander
+Vigilante
+Warchief
+Warden
+warlock
+Warlord
+Warpriest
+White Magi
+Wicked Diabolist
+Witch Doctor
+wizard
+Zealot

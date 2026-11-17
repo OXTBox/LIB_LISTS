@@ -1,0 +1,88 @@
+## **1. Identity & Role**
+- Name (if known)
+- Occupation / social role
+- Public reputation
+- How the NPC introduces themselves
+
+## **2. Physical Description**
+- Body type, posture, gait (e.g., “slight limp or full hobble”)
+- Clothing style
+- Distinguishing features
+- Voice, mannerisms
+
+## **3. Personality Profile**
+- Core traits (icy, sour, sniveling, cruel, witty, etc.)
+- Social tendencies (withdrawn, flamboyant, sycophantic, confrontational)
+- Emotional triggers
+- What they find amusing, irritating, or threatening
+
+## **4. Behavioral Patterns**
+- How they act in conversation
+- How they negotiate or bargain
+- How they react under stress
+- Habits, tics, routines
+
+## **5. Public Motivation (What they *appear* to want)**
+- The cover story
+- What they tell others
+- What most people believe about them
+
+## **6. Hidden Motivation (True agenda)**
+- Secret loyalties
+- Long‑term goals
+- What they’re actively working toward in the story
+
+## **7. Skills & Competencies**
+- Professional expertise (gem appraisal, satire, performance)
+- Combat ability (if any)
+- Social skills (manipulation, persuasion, intimidation)
+- Knowledge areas
+
+## **8. Resources & Assets**
+- Money, tools, magical items
+- Allies or contacts
+- Access to restricted areas or information
+
+## **9. Faction Relationships**
+- Who they work for
+- Who they oppose
+- Who they fear
+- Who benefits from their presence
+
+## **10. Plot Hooks & Story Impact**
+- How they can drive the story forward
+- Events triggered by their actions (e.g., bank robbery)
+- Consequences of their departure or death
+- How PCs might become involved
+
+## **11. Vulnerabilities & Weaknesses**
+- Physical limitations (injury, addiction, fear)
+- Social vulnerabilities (ego, pride, grudges)
+- Secrets that can be exploited
+
+## **12. Interaction Guidelines for the LLM**
+- How the NPC should speak (tone, vocabulary, pacing)
+- What they will or won’t reveal
+- How they respond to intimidation, bribery, charm
+- What information they guard most fiercely
+
+## **13. Improvisation Anchors**
+These help the model stay “in character” even when improvising:
+- Three phrases they often say
+- Three emotional defaults
+- Three things they always notice first about others
+- Three things they never do
+
+## **14. Scene‑Specific Behavior**
+Optional, but powerful:
+- How they behave in a tavern
+- How they behave when confronted
+- How they behave when alone with a PC
+- How they behave when their secret is threatened
+
+## **15. Escalation Path**
+If the PCs push them:
+- What they reveal first
+- What they reveal under pressure
+- What they reveal only if cornered
+- What they will lie about

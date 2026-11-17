@@ -1,0 +1,4 @@
+{
+ "$file": "blobs/MasterLists__stack__data__randomNPCFromForum.txt",
+ "chars": 29254
+}
